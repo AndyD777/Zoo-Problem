@@ -1,0 +1,37 @@
+body{
+        /* The tag for background image used */
+  background-image: url("https://i.imghippo.com/files/EtyT8840M.jpg");
+
+  /* Full height */
+  height: 75%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+
+img{
+    height: 150px;
+}
+
+/* Height for animal images */
+
+nav{text-align:center;}
+h1{font-size:14px; text-align: center; font-size: 30px;}
+h2{font-size:14px}
+h3{font-size:14px}
+h4{font-size:14px}
+h5{font-size:14px}
+h6{font-size:14px}
+
+/* Make the heading tag unified. */
+
+footer{
+    background-color: brown;
+    text-align: center;
+}
+
+/* Changes color of footer as well as centers it */
+
